@@ -1,1 +1,6 @@
-# SOC-security-operation-center-
+# SOC-security-operation-center- a team of cybersecurity professional that monitors the networks and its systems to detect malicious cyber security events.
+Some of the main areas of interest as a SOC are:
+- Vulnerabilities: whenever a system vulnerability(weekness) is discovered, it is essential to fix it by installing an update or a patch.whenever a fix is unavailable, the necessary measures to prevent an attacker from exploiting it. Although remediating vulnerabilities is vital to SOC, it is not necessariliy assigned to them.
+- Policy violations: A security policy is a set of rules required to protect the network and systems. For example, it might be a policy violation if users upload confidential company data to an online storage service.
+- Unauthorized activity: Consider the case where a user’s login name and password are stolen, and the attacker uses them to log into the network. A SOC must detect and block such an event as soon as possible before further damage is done.
+- Network intrusions: No matter how good your security is, there is always a chance for an intrusion. An intrusion can occur when a user clicks on a malicious link or when an attacker exploits a public server. Either way, when an intrusion occurs, we must detect it as soon as possible to prevent further damage.
